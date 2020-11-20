@@ -19,8 +19,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/Python1.png" />][emptylink]
-[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/java.png" />][emptylink]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/Python1.png" />][Python]
+[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/java.png" />][Java]
 
 
 <br />
@@ -32,4 +32,5 @@
 [youtube]: https://www.youtube.com/channel/UC4aFd13U3gxYbWeeqioywEQ?view_as=subscriber
 [instagram]: https://www.youtube.com/channel/UC4aFd13U3gxYbWeeqioywEQ?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/mohammedaboukhatwa/
-[emptylink]: Hello
+[Python]: https://www.python.org
+[Java]: https://www.java.com/en/
