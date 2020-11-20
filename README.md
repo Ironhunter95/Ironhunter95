@@ -17,7 +17,7 @@
 
 <br />
 
-### <img src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/tenor.gif" width="30px"> Languages and Tools:
+### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50" height="50"> Languages and Tools:
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
