@@ -1,4 +1,5 @@
-### Hi there, I'm Mohammed - aka IronHunter 👋
+### Hi there, I'm Mohammed - aka IronHunter <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ## I'm a Developer, gamer and occasionally a YouTuber!!
 
