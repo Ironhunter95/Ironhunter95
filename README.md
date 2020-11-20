@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn more AI and ML
+- :electron: 2020 Goals: Learn more AI and ML
 - ⚡ Fun fact: I love to watch Anime and play sports
 
 
