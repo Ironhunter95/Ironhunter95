@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning web development 🌐
 - 👯 I’m looking to collaborate with other content creators
 - :electron: 2022 Goals: Improve my skills in web developemnt and start learning how to incorporate ML and AI into web
-- ⚡ Fun fact: I love to watch Anime and play sports
+- ⚡ Fun fact: Most of my commits are on private repositories so that's why my publice repositories are empty!
 
 
 ### Connect with me:
