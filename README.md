@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning web development 🌐
 - 👯 I’m looking to collaborate with other content creators
-- :electron: 2022 Goals: Improve my skills in web developemnt and start learning how to incorporate ML and AI into web
+- :electron: 2023 Goals: Develop applications using NextJS
 - ⚡ Fun fact: Most of my commits are on private repositories so that's why my publice repositories are empty!
 
 
