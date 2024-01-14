@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning web development 🌐
 - 👯 I’m looking to collaborate with other content creators
-- :electron: 2023 Goals: Intergate Machine Learning into my Web Applications
+- :electron: 2024 Goals: Intergate Machine Learning into my Web Applications
 
 
 ### Connect with me:
