@@ -1,18 +1,17 @@
 ### Hi there, I'm Mohammed - aka IronHunter <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## I'm a Developer, gamer and occasionally a YouTuber!!
+## I'm a Developer, Scrum Master and ocasionally a Product Owner!!
 
 - 🌱 I’m currently learning web development 🌐
 - 👯 I’m looking to collaborate with other content creators
-- :electron: 2024 Goals: Intergate Machine Learning into my Web Applications
+- :electron: 2025 Goals: Enhance my knowledge and skills as a Scrum Master
 
 
 ### Connect with me:
 [<img align="left" alt="Mohammed Aboukhatwa | Facebook" width="22px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/124010.png"/>][facebook]
 [<img align="left" alt="Mohammed Aboukhatwa | YouTube" width="30px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/YouTube_icon.png" />][youtube]
 [<img align="left" alt="Mohammed Aboukhatwa | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/Linkedin.png" />][linkedin]
-[<img align="left" alt="Mohammed Aboukhatwa | Instagram" width="22px" src="https://raw.githubusercontent.com/Ironhunter95/Ironhunter95/master/Instagram.png" />][instagram]
 
 <br />
 
@@ -64,7 +63,7 @@
 </div>
 <br>
 <br>
-## :chart_with_upwards_trend: GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 <div class="stats" align="center">
 
 ![Mohammeds GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ironhunter95&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
@@ -77,7 +76,6 @@
 
 [facebook]: https://www.facebook.com/mohammed.saber.790/
 [youtube]: https://www.youtube.com/channel/UC4aFd13U3gxYbWeeqioywEQ?view_as=subscriber
-[instagram]: https://www.youtube.com/channel/UC4aFd13U3gxYbWeeqioywEQ?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/mohammedaboukhatwa/
 [Python]: https://www.python.org
 [Java]: https://www.java.com/en/
