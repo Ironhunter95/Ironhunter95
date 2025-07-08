@@ -63,7 +63,7 @@
 </div>
 <br>
 <br>
-### :chart_with_upwards_trend: GitHub Stats
+<h2 style="color: #44AEFB">:chart_with_upwards_trend: GitHub Stats</h2>
 <div class="stats" align="center">
 
 ![Mohammeds GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ironhunter95&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
