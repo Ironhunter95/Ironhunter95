@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohammed - aka IronHunter <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## I'm a Developer, Scrum Master and ocasionally a Product Owner!!
+## Full-Stack Developer | Agile Practitioner | PMP® Certified | Building Modern Web Apps with Scrum Discipline
 
 - 🌱 I’m currently learning web development 🌐
 - 👯 I’m looking to collaborate with other content creators
