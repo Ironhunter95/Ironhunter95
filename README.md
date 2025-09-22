@@ -3,9 +3,9 @@
 
 ## Full-Stack Developer | Agile Practitioner | PMP® Certified | Building Modern Web Apps with Scrum Discipline
 
-- 🌱 I’m currently learning web development 🌐
-- 👯 I’m looking to collaborate with other content creators
-- :electron: 2025 Goals: Enhance my knowledge and skills as a Scrum Master
+- 🌱 I’m currently developing an enterprise-grade CMMS system with advanced AI capabilities
+- 👯 I’m looking to enahnce my skills in AI, DevOps and Security
+- :electron: 2025 Goals: Build a Scrum powered developer portfolio
 
 
 ### Connect with me:
